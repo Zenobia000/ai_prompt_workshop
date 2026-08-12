@@ -1,4 +1,4 @@
-# 線上課程製作藍圖：AI 沉澱戰法 — 從提問到資產
+# 線上課程製作藍圖：AI 提示詞線上課程
 
 主文件：[`ai_knowledge_sedimentation_workshop.md`](ai_knowledge_sedimentation_workshop.md)。本檔是該課程的線上課版本製作藍圖。
 
@@ -158,7 +158,7 @@
 
 | 項目 | 規格 | 說明 |
 | :--- | :--- | :--- |
-| 課程名稱 | 中英各一 | 中：AI 沉澱戰法：從提問到資產／英：From Prompting to Assets |
+| 課程名稱 | 中英各一 | 中：AI 提示詞課程線上版｜31 堂教你把 AI 對話沉澱成資產／英：AI Prompt Engineering Course: From Prompting to Reusable Assets |
 | 課程簡介（短） | 100 字內 | 用於搜尋結果與分享預覽 |
 | 課程簡介（長） | 500–1000 字 | 痛點（沉澱不下來）到三問到四章到帶走的資產與數字 |
 | 課程大綱 | 結構化文字 | 章、單元、課時，含作業關卡的明確說明 |
